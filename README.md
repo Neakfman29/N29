@@ -1,2 +1,27 @@
-# N29
-Website by Neakfman29 (using github =) )
+<h1 style="text-align: left;">Copyrighted content by Neakfman29</h1>
+
+<div>
+  Hi there if you read this, i must pay your respect. From here <b>2 oct 2025, </b>any content upload by <b>NEAKFMAN29 </b>will be copyrighted (does not included if the date under) if <b>I</b> see something that made by me and&nbsp;<b>IF</b>&nbsp;<b>YOU DO NOT GIVEN PERMISSION AND REPOSTING ANY CONTENT BY NEAKFMAN29. </b>I will do this any action of this list:
+</div>
+
+<div><br /></div>
+
+<div>
+  <ul style="text-align: left;">
+    <li><b>Reporting the content</b> of this is NOT given permission to copyrighted</li>
+    <li><b>Contact (chatting)</b> who was reposting my content without permission( If the reposter was not agree with this and doesn't wanna to contacting, i will contact support of the platform and request to taking down the content (Depends what platform that reposting in))</li>
+  </ul>
+  <div><br /></div>
+</div>
+
+<h3 style="text-align: left;">Thing that were allowed to reposting! (Doesn't copyrighted)</h3>
+
+<div>
+  <ul style="text-align: left;">
+    <li>You were give the permission (by contacting me)</li>
+    <li>The content was allowed to reposting</li>
+    <li>You give credit name (NEAKFMAN29) if the content is from me</li>
+  </ul>
+</div>
+
+<a href="http://neakfman29.github.io/copyright-id.html">Bahasa Indonesia</a>
