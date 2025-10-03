@@ -24,4 +24,7 @@
   </ul>
 </div>
 
-<a href="http://neakfman29.github.io/copyright-id.html">Bahasa Indonesia</a>
+<h3 style="text-align: left;">Disclaimer for this repository copyright</h3>
+
+<div>Since this repository doesn't use a licence for a open source or any of that, even the code was publicly visible, i know you want to see this repository but <b>YOU ABSOLUTE NO RIGHT TO COPY, MODIFY, OR EVEN USING THIS REPOSITORY</b></div>
+<div>i use this github for a pages hosting for free... <b>ye for free </b>😊</div>
