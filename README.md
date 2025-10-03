@@ -1,30 +1,6 @@
-<h1 style="text-align: left;">Copyrighted content by Neakfman29</h1>
+<h1 style="text-align: left;">Disclaimer for this repository copyright</h1>
 
-<div>
-  Hi there if you read this, i must pay your respect. From here <b>2 oct 2025, </b>any content upload by <b>NEAKFMAN29 </b>will be copyrighted (does not included if the date under) if <b>I</b> see something that made by me and&nbsp;<b>IF</b>&nbsp;<b>YOU DO NOT GIVEN PERMISSION AND REPOSTING ANY CONTENT BY NEAKFMAN29. </b>I will do this any action of this list:
-</div>
+<div>Since this repository doesn't use a licence for a open source or any of that, even the code was publicly visible, i know you want to see this repository but <b>YOU ABSOLUTE NO RIGHT TO COPY, MODIFY, OR EVEN USING THIS REPOSITORY</b> well you are maybe allow to see the code 😣</div>
+<div>i use this github for a pages hosting for free... <b>ye for free </b>😊 cause im 16 y/o</div>
 
-<div><br /></div>
-
-<div>
-  <ul style="text-align: left;">
-    <li><b>Reporting the content</b> of this is NOT given permission to copyrighted</li>
-    <li><b>Contact (chatting)</b> who was reposting my content without permission( If the reposter was not agree with this and doesn't wanna to contacting, i will contact support of the platform and request to taking down the content (Depends what platform that reposting in))</li>
-  </ul>
-  <div><br /></div>
-</div>
-
-<h3 style="text-align: left;">Thing that were allowed to reposting! (Doesn't copyrighted)</h3>
-
-<div>
-  <ul style="text-align: left;">
-    <li>You were give the permission (by contacting me)</li>
-    <li>The content was allowed to reposting</li>
-    <li>You give credit name (NEAKFMAN29) if the content is from me</li>
-  </ul>
-</div>
-
-<h3 style="text-align: left;">Disclaimer for this repository copyright</h3>
-
-<div>Since this repository doesn't use a licence for a open source or any of that, even the code was publicly visible, i know you want to see this repository but <b>YOU ABSOLUTE NO RIGHT TO COPY, MODIFY, OR EVEN USING THIS REPOSITORY</b></div>
-<div>i use this github for a pages hosting for free... <b>ye for free </b>😊</div>
+for more information about copyright by Neakfman29 (not include this repository) visit <a href="https://neakfman29.github.io/copyright">Copyrighted information</a>
